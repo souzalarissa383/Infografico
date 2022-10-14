@@ -37,10 +37,9 @@
   }
 }
 
-
 /*tabela */
 
- td, tr {
+td, tr {
   border: 3px solid #ddd;
   padding: 8px;
   text-align: justify;

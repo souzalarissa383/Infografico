@@ -11,7 +11,6 @@ function Aplicacao(){
         Dados()
         
     }, []) 
-
         // obtem os dados da API 
         // fetch para fazer a requisicao da API
     const Dados = async () => {
