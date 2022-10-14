@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+/*tabela */
+
+ td, tr {
+  border: 3px solid #ddd;
+  padding: 8px;
+  text-align: justify;
+  
+
+}
+
+tr ,td {
+  border: 1px solid white;
+}
+th{
+  border: 1px solid white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #535c68;
+  color: white;
+}
